@@ -7,7 +7,7 @@ const FirstPost = () => {
       <Head>
         <title>First Post</title>
       </Head>
-      <h1>FIRST POST</h1>
+      <h1>First Post</h1>
       <h2>
         {" "}
         <Link href="/">
